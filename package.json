@@ -1,0 +1,20 @@
+{
+  "name": "click-link",
+  "main": "./lib/click-link",
+  "version": "1.0.0",
+  "description": "Enables ctrl clicking links and opening them in the browser",
+  "keywords": [
+      "link", "click", "ctrl-click", "open in browser", "open link", "browser"
+  ],
+  "activationCommands": {
+    "atom-workspace": "click-link:toggle"
+  },
+  "repository": "https://github.com/atom/click-link",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+      "language-hyperlink": ">0.16.0"
+  }
+}
