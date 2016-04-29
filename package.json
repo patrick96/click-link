@@ -15,6 +15,6 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-      "language-hyperlink": ">0.16.0"
+      "language-hyperlink": ">=0.16.0"
   }
 }
