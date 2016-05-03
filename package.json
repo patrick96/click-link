@@ -6,7 +6,7 @@
   "keywords": [
       "link", "click", "ctrl-click", "open in browser", "open link", "browser"
   ],
-  "repository": "https://github.com/atom/click-link",
+  "repository": "https://github.com/patrick96/click-link",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
