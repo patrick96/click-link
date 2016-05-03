@@ -1,7 +1,7 @@
 {
   "name": "click-link",
   "main": "./lib/click-link",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Enables ctrl clicking links and opening them in the browser",
   "keywords": [
     "link",
