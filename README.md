@@ -3,7 +3,7 @@
 [![license](https://img.shields.io/apm/l/click-link.svg)](https://atom.io/packages/click-link)
 # Click to open links in the browser
 
-Adds the ability to ctrl-click links and open them in the default browser.
+Adds the ability to ctrl-click (cmd-click on macs) links and open them in the default browser.
 
 ### Installation
 
