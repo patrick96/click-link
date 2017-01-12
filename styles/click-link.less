@@ -1,10 +1,6 @@
 @import "ui-variables";
 
-atom-text-editor.editor .syntax--hyperlink:hover {
-    border-bottom: 1px solid;
-    cursor: pointer;
-}
-
-atom-text-editor.editor .syntax--source.syntax--gfm .syntax--link:hover {
+atom-text-editor.editor .syntax--hyperlink:hover, atom-text-editor.editor .syntax--source.syntax--gfm .syntax--link:hover {
+    text-decoration: underline;
     cursor: pointer;
 }
