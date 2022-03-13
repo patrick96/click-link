@@ -1,3 +1,5 @@
+# THIS PROJECT IS NO LONGER MAINTAINED
+
 [![Version](https://img.shields.io/apm/v/click-link.svg)](https://atom.io/packages/click-link)
 [![Downloads](https://img.shields.io/apm/dm/click-link.svg)](https://atom.io/packages/click-link)
 [![license](https://img.shields.io/apm/l/click-link.svg)](https://atom.io/packages/click-link)
